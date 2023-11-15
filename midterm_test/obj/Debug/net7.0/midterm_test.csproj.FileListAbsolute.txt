@@ -1,0 +1,15 @@
+D:\oop code\midterm_test\bin\Debug\net7.0\midterm_test.exe
+D:\oop code\midterm_test\bin\Debug\net7.0\midterm_test.deps.json
+D:\oop code\midterm_test\bin\Debug\net7.0\midterm_test.runtimeconfig.json
+D:\oop code\midterm_test\bin\Debug\net7.0\midterm_test.dll
+D:\oop code\midterm_test\bin\Debug\net7.0\midterm_test.pdb
+D:\oop code\midterm_test\obj\Debug\net7.0\midterm_test.csproj.AssemblyReference.cache
+D:\oop code\midterm_test\obj\Debug\net7.0\midterm_test.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop code\midterm_test\obj\Debug\net7.0\midterm_test.AssemblyInfoInputs.cache
+D:\oop code\midterm_test\obj\Debug\net7.0\midterm_test.AssemblyInfo.cs
+D:\oop code\midterm_test\obj\Debug\net7.0\midterm_test.csproj.CoreCompileInputs.cache
+D:\oop code\midterm_test\obj\Debug\net7.0\midterm_test.dll
+D:\oop code\midterm_test\obj\Debug\net7.0\refint\midterm_test.dll
+D:\oop code\midterm_test\obj\Debug\net7.0\midterm_test.pdb
+D:\oop code\midterm_test\obj\Debug\net7.0\midterm_test.genruntimeconfig.cache
+D:\oop code\midterm_test\obj\Debug\net7.0\ref\midterm_test.dll
